@@ -1,0 +1,5 @@
+MariaDB [(none)]> create view 211402083
+    -> INSERT INTO task_id
+    -> values
+    -> 924eaa0e-c8f1-4132-a032-1d98c176a8c3
+    -> MariaDB [task_manager]> tee 211402083_log.log
